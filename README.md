@@ -1,4 +1,6 @@
 # collab-practice
 demo of github collaboration
 
-team members: - Roy 
+team members - Miguel
+team members - Roy 
+
